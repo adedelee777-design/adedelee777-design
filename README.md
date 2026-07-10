@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, my name is Oluwafemi A Onayinka
+#### SOC Analyst | Blue Team | Detection & Response
+![SOC Analyst | Blue Team | Detection & Response](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**adedelee777-design/adedelee777-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a SOC Analyst with 8months of experience monitoring, triaging, and responding to security incidents in enterprise environments. I spend my days watching alerts, chasing down false positives, and occasionally finding the one that isn't. Currently focused on sharpening my detection engineering and threat hunting skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on: Wazuh agent configuration for process monitoring
+🌱 Currently learning: threat hunting techniques and memory forensics
+💬 Ask me about: log analysis, phishing triage, SOC workflows
+📫 Reach me: adedelee777@yahoo.com
+
+Skills: SIEM / Monitoring,Networking & Analysis, Scripting & Automation, EDR / Endpoint
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
