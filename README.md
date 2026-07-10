@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Oluwafemi A Onayinka
 #### SOC Analyst | Blue Team | Detection & Response
-![SOC Analyst | Blue Team | Detection & Response](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![SOC Analyst | Blue Team | Detection & Response]
 
 I'm a SOC Analyst with 8months of experience monitoring, triaging, and responding to security incidents in enterprise environments. I spend my days watching alerts, chasing down false positives, and occasionally finding the one that isn't. Currently focused on sharpening my detection engineering and threat hunting skills.
 
