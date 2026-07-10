@@ -15,7 +15,7 @@ I'm a SOC Analyst with 8months of experience monitoring, triaging, and respondin
 
 Skills: SIEM / Monitoring,Networking & Analysis, Scripting & Automation, EDR / Endpoint
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
